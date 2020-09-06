@@ -1,0 +1,14 @@
+.comment-container {
+    display: flex;
+    border: 1px solid lightGray;
+    margin: 5px 20px;
+    padding: 10px
+}
+.img-container img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.text-container{
+    margin-left: 50px;
+}
